@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Wes",
+      "image": "https://images.gr-assets.com/users/1613155493p6/83113487.jpg",
+      "price": "500",
+      "id": 8
     }
   ]
 }
