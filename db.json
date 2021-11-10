@@ -47,6 +47,12 @@
       "image": "https://images.gr-assets.com/users/1613155493p6/83113487.jpg",
       "price": "500",
       "id": 8
+    },
+    {
+      "name": "The Board Game Pandemic Legacy",
+      "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TQ5SEAI&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=bgegames04-20",
+      "price": "69.69",
+      "id": 10
     }
   ]
 }

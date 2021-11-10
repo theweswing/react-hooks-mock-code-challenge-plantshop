@@ -3,9 +3,12 @@ import Header from "./Header";
 import PlantPage from "./PlantPage";
 
 function App() {
-// const [allPlants,setAllPlants]=useState([])
 const [activePlants,setActivePlants]=useState([])
 const [allPlants,setAllPlants]=useState([])
+
+// initial fetch of data
+// two states, "activePlants" is the currently displayed plants
+// "allPlants" is the master list of all plants
 
 useEffect(() => {
   fetch('http://localhost:6001/plants')
